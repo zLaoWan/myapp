@@ -5,12 +5,12 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development 运行测试
+### Compiles and hot-reloads for development
 ```1
 npm run serve
 ```
 
-### Compiles and minifies for production webpack打包
+### Compiles and minifies for production
 ```
 npm run build
 ```
